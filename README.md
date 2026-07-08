@@ -1,7 +1,7 @@
 # Hi, I'm Reza Rajaee 👋
 
 Data scientist with a background in physics, working on deep learning and
-statistical analysis for mass spectrometry imaging and spatial proteomics.
+statistical analysis for mass spectrometry data.
 
 ---
 
