@@ -1,10 +1,13 @@
 # Hi, I'm Reza Rajaee 👋
 
-Data scientist with a background in physics and medical image analysis.
+Data scientist with a background in physics, working on deep learning and
+statistical analysis for mass spectrometry imaging and spatial proteomics.
 
 ---
 
 ## 🔬 Research Interests
-- Medical Image Analysis
-- Deep Learning for Biomedical Data
+- Data Analysis & Machine Learning for Mass Spectrometry Data
+- Unsupervised & Self-Supervised Deep Learning
+- Feature Extraction & Representation Learning
+- Statistical Data Analysis
 - Interpretable & Trustworthy Machine Learning
