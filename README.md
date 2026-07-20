@@ -7,7 +7,7 @@ statistical analysis for mass spectrometry data.
 
 ## 🔬 Research Interests
 - Data Analysis & Machine Learning for Mass Spectrometry Data
-- Unsupervised & Self-Supervised Deep Learning
 - Feature Extraction & Representation Learning
+- Unsupervised & Self-Supervised Deep Learning
 - Statistical Data Analysis
 - Interpretable & Trustworthy Machine Learning
